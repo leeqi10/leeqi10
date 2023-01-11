@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leeqi10
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java spring,mybatis-plus,vue,docker,element,springboot, and so on.
-- 💞️ I’m looking to collaborate on who is good you
+- 💞️ I’m looking to collaborate on you who are exelent
 - 📫 How to reach me qq:447789814.I am looking forward to your attach.
 <!---
 leeqi10/leeqi10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
