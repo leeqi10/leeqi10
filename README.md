@@ -76,5 +76,5 @@ Development environment: IDEA+Vscode+MySQL+JDK1.8
 
 ·Main responsibilities: responsible for the development of the back-end, solving the classification management problem with recursion, and developing the database optimization and business logic.
 
-[![img](https://github-readme-stats.vercel.app/api/pin/?username=leeqi10&repo=Sey)](https://github.com/leeqi10/Sey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leeqi10&repo=Sey)](https://github.com/leeqi10/Sey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
