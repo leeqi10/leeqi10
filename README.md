@@ -58,7 +58,7 @@ School experience: cadre of study department, student class committee, project o
 
 Awards in the school: National University Computer Ability Challenge (Southwest China), Provincial Second and Provincial Third Class Scholarships for many times. 
 
-## Contact me
+##  Myself Evaluating
 
 1. Strong learning ability, occasionally like to study the source code of functions or classes.
 
