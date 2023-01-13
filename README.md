@@ -61,7 +61,19 @@ Awards in the school: National University Computer Ability Challenge (Southwest 
 ##  Myself Evaluating
 
 1. Strong learning ability, occasionally like to study the source code of functions or classes.
-
 2. Strong receptivity, can quickly learn relevant knowledge, and I like to learn while doing according to the tasks I have done, and can improve quickly.
-
 3. Open-minded, able to get along well with others, and have a sense of teamwork.
+
+## My project Exeperience
+
+Sey Shopping
+
+Development environment: IDEA+Vscode+MySQL+JDK1.8
+
+·Software architecture: springboot, mysql.mybatisPlus, html, css, jquery, themleaf
+
+·Project description: a niche shopping platform to solve users' need to purchase some urgently needed supplies. Spring boot is used to build the overall architecture. The front end uses the themleaf template, which can be divided into landing page, home page, personal information, product details, and order page. The back end is divided into five modules: user management, commodity management, commodity classification management, shopping cart management, and order management.
+
+·Main responsibilities: responsible for the development of the back-end, solving the classification management problem with recursion, and developing the database optimization and business logic.
+
+[![img](https://github-readme-stats.vercel.app/api/pin/?username=leeqi10&repo=Sey)](https://github.com/leeqi10/Sey)
