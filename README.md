@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 hello, I am learning java,I hope that I can be a excellent person.
 
-<a href="https://app.daily.dev/leeqi10"><img src="https://api.daily.dev/devcards/2b7a6c988e5342d08383fa2092fa8a3d.png?r=dp2" width="400" alt="唐齐's Dev Card"/></a>
+<a href="https://app.daily.dev/leeqi10"><img src="https://github.com/leeqi10/leeqi10/blob/main/devcard.svg" width="400" alt="唐齐's Dev Card"/></a>
 
 | ![img](https://github-readme-stats.vercel.app/api?username=leeqi10&show_icons=true&theme=gruvbox) | ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=leeqi10) |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
